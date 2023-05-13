@@ -1,0 +1,28 @@
+item {
+  name: "lookup"
+  id: 1
+}
+item {
+  name: "bow"
+  id: 2
+}
+item {
+  name: "turn"
+  id: 3
+}
+item {
+  name: "talk"
+  id: 4
+}
+item {
+  name: "stand"
+  id: 5
+}
+item {
+  name: "handsup"
+  id: 6
+}
+item {
+  name: "lie"
+  id: 7
+}
